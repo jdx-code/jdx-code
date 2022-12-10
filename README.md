@@ -1,10 +1,8 @@
 ### Hello folx, I'm Jyotirmoy Das.. a.k.a. "JD". 👋
 
-- 🔭 I’m currently working on Front-End stuff.
 - 🌱 I’m currently learning Advanced Javascript, ReactJS, Tailwind CSS and more Front-End stuff. 
 - 👯 I’m looking to collaborate with passionate developers (like YOU).
-- 🤔 I’m looking for help with Advanced Javascript Concepts.
-- 💬 Ask me about Programming, Life and Philosophy.  
+- 💬 I love discussions that are about Programming, Life and Philosophy.  
 - 📫 Mail me : jyotirmoydas12@gmail.com
 
 <!-- Social Icons -->
@@ -15,8 +13,8 @@
 <a href="https://www.facebook.com/jdxcode99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>  
 </p>
 
-<!-- Language & Tools -->
-<h3 align="left">Languages, Libraries & Frameworks:</h3>
+<!-- Languages -->
+<h3 align="left">I'm good at:</h3>
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="" height="30" width="40" />
@@ -28,4 +26,12 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="" height="30" width="40" /> 
+</p>
+
+
+<!--  Tools -->
+<h3 align="left">I mostly use:</h3>
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" alt="" height="30" width
 </p>
