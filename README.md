@@ -14,7 +14,7 @@
 </p>
 
 <!-- Languages -->
-<h3 align="left">I'm good at:</h3>
+<h3 align="left">Languages, Libraries & Frameworks I know:</h3>
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="" height="30" width="40" />
@@ -30,7 +30,7 @@
 
 
 <!--  Tools -->
-<h3 align="left">I mostly use:</h3>
+<h3 align="left">Tools and Environments I prefer:</h3>
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" alt="" height="30" width
