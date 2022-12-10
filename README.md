@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate with passionate developers (like YOU).
 - 💬 I love discussions that are about Programming, Life and Philosophy.  
 - 📫 Mail me : jyotirmoydas12@gmail.com
+- Read my blogs : https://jdblogs.hashnode.dev/
 
 <!-- Social Icons -->
 <h3 align="left">Connect with me:</h3>
