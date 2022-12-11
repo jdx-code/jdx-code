@@ -6,12 +6,13 @@
 - 📫 Mail me : jyotirmoydas12@gmail.com
 - Read my blogs : https://jdblogs.hashnode.dev/
 
+
 <!-- Social Icons -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jdx_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jdx-code/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jdxcode99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>  
+<a href="https://twitter.com/jdx_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="15" width="20" /></a>
+<a href="https://www.linkedin.com/in/jdx-code/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="15" width="20" /></a>
+<a href="https://www.facebook.com/jdxcode99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="15" width="20" /></a>  
 </p>
 
 <!-- Languages -->
@@ -29,7 +30,6 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="" height="30" width="40" /> 
 </p>
 
-
 <!--  Tools -->
 <h3 align="left">Tools and Environments I prefer:</h3>
 <p align="left">
@@ -40,4 +40,13 @@
 </p>
 
 <!-- Badges -->
+<h3 align="left">Challenges :</h3>
 URL:https://www.codewars.com/users/jdx-code/badges/large
+
+<!-- Social Icons -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jdx_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jdx-code/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jdxcode99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>  
+</p>
