@@ -13,12 +13,13 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg" alt="" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="" height="30" width="40" /> 
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jquery.svg" alt="" height="30" width="40" />  
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="" height="30" width="40" />    
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg" alt="" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="" height="30" width="40" />    
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="" height="30" width="40" /> 
+
 </p>
 
 <!--  Tools -->
