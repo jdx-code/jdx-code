@@ -38,3 +38,6 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg" alt="" height="30" width="40" />  
 </p>
+
+<!-- Badges -->
+URL:https://www.codewars.com/users/jdx-code/badges/large
