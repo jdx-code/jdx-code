@@ -27,14 +27,14 @@
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/linux-tux-svgrepo-com.svg" alt="linux" height="45" width="60" />
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/apache-svgrepo-com.svg" alt="apache" height="45" width="60" /> 
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/vscode-svgrepo-com.svg" alt="vscode" height="45" width="60" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/git-svgrepo-com.svg" alt="git" height="45" width="60" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/git-svgrepo-com.svg" alt="git" height="55" width="75" />
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/postman-icon-svgrepo-com.svg" alt="postman" height="45" width="60" />   
 </p>
 
 <!-- Social Icons -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jdx_code" target="blank"><img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/socials/twitter-svgrepo-com.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jdx-code/" target="blank"><img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/socials/linkedin-svgrepo-com.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jdxcode99/" target="blank"><img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/socials/facebook-svgrepo-com.svg" alt="facebook" height="30" width="40" /></a>  
+<a href="https://twitter.com/jdx_code" target="blank"><img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/socials/twitter-svgrepo-com.svg" alt="twitter" height="50" width="60" /></a>
+<a href="https://www.linkedin.com/in/jdx-code/" target="blank"><img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/socials/linkedin-svgrepo-com.svg" alt="linkedin" height="50" width="60" /></a>
+<a href="https://www.facebook.com/jdxcode99/" target="blank"><img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/socials/facebook-svgrepo-com.svg" alt="facebook" height="50" width="60" /></a>  
 </p>
