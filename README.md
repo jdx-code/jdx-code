@@ -24,11 +24,11 @@
 <!--  Tools -->
 <h3 align="left">Tools and Environments I prefer:</h3>
 <p align="left">
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/linux-tux-svgrepo-com.svg" alt="linux" height="30" width="40" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/apache-svgrepo-com.svg" alt="apache" height="30" width="40" /> 
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/vscode-svgrepo-com.svg" alt="vscode" height="30" width="40" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/git-svgrepo-com.svg" alt="git" height="30" width="40" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/postman-icon-svgrepo-com.svg" alt="postman" height="30" width="40" />   
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/linux-tux-svgrepo-com.svg" alt="linux" height="45" width="60" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/apache-svgrepo-com.svg" alt="apache" height="45" width="60" /> 
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/vscode-svgrepo-com.svg" alt="vscode" height="45" width="60" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/git-svgrepo-com.svg" alt="git" height="45" width="60" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/postman-icon-svgrepo-com.svg" alt="postman" height="45" width="60" />   
 </p>
 
 <!-- Social Icons -->
