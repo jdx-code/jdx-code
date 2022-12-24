@@ -13,7 +13,7 @@
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/reactts-svgrepo-com.svg" alt="react" height="55" width="70" />
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/redux-svgrepo-com.svg" alt="redux" height="55" width="70" />
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/nodejs-svgrepo-com(2).svg" alt="node" height="55" width="70" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/mysql-logo-svgrepo-com.svg" alt="mysql" height="45" width="60" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/mysql-logo-svgrepo-com.svg" alt="mysql" height="55" width="70" />
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/mongodb-svgrepo-com.svg" alt="mongo" height="55" width="70" /> 
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/jquery-svgrepo-com.svg" alt="jquery" height="55" width="70" />  
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/tailwindcss-svgrepo-com.svg" alt="tailwind" height="130" width="150" />
