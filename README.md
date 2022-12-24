@@ -9,27 +9,27 @@
 <!-- Languages -->
 <h3 align="left">Languages, Libraries & Frameworks I know:</h3>
 <p align="left">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg" alt="" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="" height="30" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="" height="30" width="40" /> 
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jquery.svg" alt="" height="30" width="40" />  
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg" alt="" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="" height="30" width="40" />    
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="" height="30" width="40" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/javascript-svgrepo-com.svg" alt="javascript" height="30" width="40" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/reactts-svgrepo-com.svg" alt="react" height="30" width="40" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/redux-svgrepo-com.svg" alt="redux" height="30" width="40" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/nodejs-svgrepo-com(2).svg" alt="node" height="30" width="40" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/mongodb-svgrepo-com.svg" alt="mongo" height="30" width="40" /> 
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/jquery-svgrepo-com.svg" alt="jquery" height="30" width="40" />  
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/tailwindcss-svgrepo-com.svg" alt="tailwind" height="30" width="40" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/bootstrap-svgrepo-com.svg" alt="bootstrap" height="30" width="40" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/php-1-logo-svgrepo-com.svg" alt="php" height="30" width="40" />    
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/mysql-logo-svgrepo-com.svg" alt="mysql" height="30" width="40" />
 
 </p>
 
 <!--  Tools -->
 <h3 align="left">Tools and Environments I prefer:</h3>
 <p align="left">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apache.svg" alt="" height="30" width="40" /> 
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" alt="" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg" alt="" height="30" width="40" />   
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/linux-tux-svgrepo-com.svg" alt="linux" height="30" width="40" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/apache-svgrepo-com.svg" alt="apache" height="30" width="40" /> 
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/vscode-svgrepo-com.svg" alt="vscode" height="30" width="40" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/git-svgrepo-com.svg" alt="git" height="30" width="40" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/postman-icon-svgrepo-com.svg" alt="postman" height="30" width="40" />   
 </p>
 
 <!-- Social Icons -->
