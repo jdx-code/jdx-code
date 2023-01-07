@@ -5,6 +5,7 @@
 - 💬 I love discussions that are about Programming, Life and Philosophy.  
 - 📫 Mail me : jyotirmoydas12@gmail.com
 - &#128214; Read my blogs : https://jdblogs.hashnode.dev/
+- &#127760; Portfolio : https://jdportfoliosite.netlify.app/
 
 <!-- Languages -->
 <h3 align="left">Languages, Libraries & Frameworks I know:</h3>
