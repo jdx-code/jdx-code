@@ -1,4 +1,4 @@
-### Hello folx, I'm Jyotirmoy Das... a.k.a. "JD". 👋
+### Hello folx, I'm Jyotirmoy Das.. a.k.a. "JD". 👋
 
 - 🌱 I’m currently learning Advanced Javascript, ReactJS, Tailwind CSS and more Front-End stuff. 
 - 👯 I’m looking to collaborate with passionate developers (like YOU).
