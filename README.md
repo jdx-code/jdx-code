@@ -1,6 +1,6 @@
 ### Hello folx, I'm Jyotirmoy Das <JD>👋
 
-- 🌱 I'm currently learning Advanced Javascript, ReactJS, Tailwind CSS and more Front-End stuff. 
+- 🌱 I'm currently learning Advanced Javascript, Node JS, Express and more Back-end stuff. 
 - 👯 I’m looking to collaborate with passionate developers (like YOU).
 - 💬 I love discussions that are about Programming, Life and Philosophy.  
 - 📫 Mail me : jyotirmoydas12@gmail.com
