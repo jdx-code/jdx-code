@@ -16,12 +16,8 @@
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/redux-svgrepo-com.svg" alt="redux" height="50" width="65" />
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/nodejs-svgrepo-com(2).svg" alt="node" height="60" width="75" />
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/mongodb-svgrepo-com.svg" alt="mongo" height="85" width="90" /> 
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/jquery-svgrepo-com.svg" alt="jquery" height="85" width="80" />  
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/tailwindcss-svgrepo-com.svg" alt="tailwind" height="130" width="150" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/bootstrap-svgrepo-com.svg" alt="bootstrap" height="40" width="60" />
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/mysql-logo-svgrepo-com.svg" alt="mysql" height="55" width="65" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/php-1-logo-svgrepo-com.svg" alt="php" height="45" width="65" />   
-</p>
 
 <!--  Tools -->
 <h3 align="left">Tools and Environments I prefer:</h3>
