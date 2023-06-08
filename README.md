@@ -1,4 +1,4 @@
-### Hello folx, I'm Jyotirmoy Das <JD>👋
+### Hello folx, I'm Jyotirmoy Das <JD>..👋
 
 - 🌱 I'm currently learning Advanced Javascript, Node JS, Express and more Back-end stuff. 
 - 👯 I’m looking to collaborate with passionate developers (like YOU).
