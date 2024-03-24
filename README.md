@@ -11,6 +11,8 @@
 <h3 align="left">Languages, Libraries & Frameworks I know:</h3>
 <p align="left">
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/javascript-svgrepo-com.svg" alt="javascript" height="45" width="60" />
+<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/javascript-svgrepo-com.svg" alt="javascript" height="45" width="60" />
+  
 <i class="fa-brands fa-js" style="color: #62a0ea;"></i>
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/reactts-svgrepo-com.svg" alt="react" height="55" width="70" />
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/redux-svgrepo-com.svg" alt="redux" height="50" width="65" />
