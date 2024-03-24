@@ -1,6 +1,6 @@
 ### Hello folx, I'm Jyotirmoy Das <JD>..👋
 
-- 🌱 I'm currently learning NextJS . 
+- 🌱 I'm currently learning Typescript and NextJS . 
 - 👯 I’m looking to collaborate with passionate developers (like YOU).
 - 💬 I love discussions that are about Programming, Life and Philosophy.  
 - 📫 Mail me : jyotirmoydas12@gmail.com
