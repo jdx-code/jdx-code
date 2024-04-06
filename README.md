@@ -30,10 +30,6 @@
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/vscode-svgrepo-com.svg" alt="vscode" height="45" width="60" />
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/git-svgrepo-com.svg" alt="git" height="55" width="75" />
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/postman-icon-svgrepo-com.svg" alt="postman" height="45" width="60" />   
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-  
 </p>
 
 <!-- Social Icons -->
