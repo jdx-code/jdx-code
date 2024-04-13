@@ -22,6 +22,18 @@
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/tailwindcss-svgrepo-com.svg" alt="tailwind" height="130" width="150" />
 <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/mysql-logo-svgrepo-com.svg" alt="mysql" height="55" width="65" />
 
+<!--<h3 align="left">My foundations :</h3>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,php,mysql" />
+    
+</div>
+
+<h3 align="left">Languages, libraries and frameworks I use :</h3>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>-->
+
 <!--  Tools -->
 <h3 align="left">Tools and Environments I prefer:</h3>
 <p align="left">
