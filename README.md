@@ -7,42 +7,21 @@
 - &#128214; Read my blogs : https://jdblogs.hashnode.dev/
 - &#127760; Portfolio : https://jdportfoliosite.netlify.app/
 
-<!-- Languages -->
-<h3 align="left">Languages, Libraries & Frameworks I know:</h3>
-<p align="left">
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/javascript-svgrepo-com.svg" alt="javascript" height="45" width="60" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/typescript-svgrepo-com.svg" alt="typescript" height="45" width="60" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/reactts-svgrepo-com.svg" alt="react" height="55" width="70" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/redux-svgrepo-com.svg" alt="redux" height="50" width="65" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/nodejs-svgrepo-com(2).svg" alt="node" height="60" width="75" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/nextjs-svgrepo-com.svg" alt="nextjs" height="50" width="65" />
-<!-- <img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/socketio-ar21.svg" alt="socketio" height="50" width="65" /> -->
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/socket-io-svgrepo-com.svg" alt="socketio" height="50" width="65" />  
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/mongodb-svgrepo-com.svg" alt="mongo" height="85" width="90" /> 
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/tailwindcss-svgrepo-com.svg" alt="tailwind" height="130" width="150" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/mysql-logo-svgrepo-com.svg" alt="mysql" height="55" width="65" />
-
-<!--<h3 align="left">My foundations :</h3>
+<h3 align="left">Foundations</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,php,mysql" />
-    
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" />    
 </div>
 
 <h3 align="left">Languages, libraries and frameworks I use :</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>-->
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs,php,mysql" /><br>
+</div>
 
-<!--  Tools -->
-<h3 align="left">Tools and Environments I prefer:</h3>
-<p align="left">
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/linux-tux-svgrepo-com.svg" alt="linux" height="45" width="60" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/apache-svgrepo-com.svg" alt="apache" height="45" width="60" /> 
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/vscode-svgrepo-com.svg" alt="vscode" height="45" width="60" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/git-svgrepo-com.svg" alt="git" height="55" width="75" />
-<img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/techs/postman-icon-svgrepo-com.svg" alt="postman" height="45" width="60" />   
-</p>
+<h3 align="left">Tools and Environments I prefer :</h3>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux" />    
+</div>
 
 <!-- Social Icons -->
 <h3 align="left">Connect with me:</h3>
