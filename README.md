@@ -9,18 +9,18 @@
 
 <h3 align="left">Foundations</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" />    
+    <img width="170" src="https://skillicons.dev/icons?i=c,cpp,html,css" />    
 </div>
 
 <h3 align="left">Languages, libraries and frameworks I use :</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,tailwind,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs,php,mysql" /><br>
+    <img width="250" src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,tailwind,bootstrap" />
+    <img width="250" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs,php,mysql" /><br>
 </div>
 
 <h3 align="left">Tools and Environments I prefer :</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux" />    
+    <img width="250" src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux" />    
 </div>
 
 <!-- Social Icons -->
