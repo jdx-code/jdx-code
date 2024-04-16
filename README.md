@@ -9,7 +9,7 @@
 
 <h3 align="left">Foundations</h3>
 <div align="left">
-    <img width="170" src="https://skillicons.dev/icons?i=c,cpp,html,css" />    
+    <img width="168" src="https://skillicons.dev/icons?i=c,cpp,html,css" />    
 </div>
 
 <h3 align="left">Languages, libraries and frameworks I use :</h3>
