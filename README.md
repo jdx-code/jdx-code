@@ -1,6 +1,6 @@
 ### Hello world 👋, I'm Jyotirmoy Das <JD>
 
-- 🌱 I'm currently learning Typescript and NextJS . 
+- 🌱 I'm currently learning React Native . 
 - 👯 I’m looking to collaborate with passionate developers.
 - 💬 I love discussions about Tech and Trends.  
 - 📫 Mail me : jyotirmoydas12@gmail.com
