@@ -26,8 +26,8 @@
 <!-- Social Icons -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jdx_code" target="blank"><img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/socials/twitter-svgrepo-com.svg" alt="twitter" height="50" width="60" /></a>
-<a href="https://www.linkedin.com/in/jdx-code/" target="blank"><img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/socials/linkedin-svgrepo-com.svg" alt="linkedin" height="50" width="60" /></a>
+<a href="https://twitter.com/jd_1441" target="blank"><img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/socials/twitter-svgrepo-com.svg" alt="twitter" height="50" width="60" /></a>
+<a href="https://www.linkedin.com/in/jd1441/" target="blank"><img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/socials/linkedin-svgrepo-com.svg" alt="linkedin" height="50" width="60" /></a>
 <a href="https://www.facebook.com/jdxcode99/" target="blank"><img align="center" src="https://github.com/jdx-code/dev-assets/blob/main/svgAssets/socials/facebook-svgrepo-com.svg" alt="facebook" height="50" width="60" /></a>  
 </p>
 
