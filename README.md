@@ -5,7 +5,6 @@
 - 💬 I love discussions about Tech and Trends.  
 - 📫 Mail me : jyotirmoydas12@gmail.com
 - &#128214; Read my blogs : https://jdblogs.hashnode.dev/
-- &#127760; Portfolio : https://jdportfoliosite.netlify.app/
 
 <h3 align="left">Foundations</h3>
 <div align="left">
