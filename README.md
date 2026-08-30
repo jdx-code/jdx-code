@@ -1,5 +1,3 @@
-React | Springboot | SQL | MongoDB | React Native | Node | Azure 
-
 <h3 align="left">Foundations</h3>
 <div align="left">
     <img width="168" src="https://skillicons.dev/icons?i=c,cpp,html,css" />    
