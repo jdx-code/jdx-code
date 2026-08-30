@@ -1,4 +1,4 @@
-- React | Springboot | SQL | Azure
+React | Springboot | SQL | MongoDB | React Native | Node | Azure 
 
 <h3 align="left">Foundations</h3>
 <div align="left">
