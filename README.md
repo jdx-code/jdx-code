@@ -1,10 +1,6 @@
 ### Hello world 👋, I'm Jyotirmoy Das <JD>
 
-- 🌱 I'm currently learning React Native . 
-- 👯 I’m looking to collaborate with passionate developers.
-- 💬 I love discussions about Tech and Trends.  
-- 📫 Mail me : jyotirmoydas12@gmail.com
-- &#128214; Read my blogs : https://jdblogs.hashnode.dev/
+- 🌱 Experienced in React | Springboot | SQL | Azure
 
 <h3 align="left">Foundations</h3>
 <div align="left">
