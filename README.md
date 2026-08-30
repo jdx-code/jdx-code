@@ -1,6 +1,4 @@
-### Hello world 👋, I'm Jyotirmoy Das <JD>
-
-- 🌱 Experienced in React | Springboot | SQL | Azure
+- React | Springboot | SQL | Azure
 
 <h3 align="left">Foundations</h3>
 <div align="left">
